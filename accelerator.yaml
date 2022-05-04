@@ -1,7 +1,7 @@
 accelerator:
-  displayName: Hello World
-  description: Hello World sample project for Spring Boot
-  iconUrl: https://icons.iconarchive.com/icons/paomedia/small-n-flat/1024/globe-icon.png
+  displayName: Hello World - Vodafone
+  description: Hello World sample project for Vodafone engineers to get started with deploying a first sample applicaiton. 
+  iconUrl: https://www.vodafone.com/icons/group/logo-vodafone.svg
   tags:
   - java
   - spring
